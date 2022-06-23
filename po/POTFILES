@@ -1,0 +1,4 @@
+data/io.github.OxMRTT.ressdit.desktop.in
+data/io.github.OxMRTT.ressdit.appdata.xml.in
+data/io.github.OxMRTT.ressdit.gschema.xml
+src/window.ui

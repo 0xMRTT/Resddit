@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=resddit
+Exec=resddit
+Icon=io.github.OxMRTT.ressdit
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
